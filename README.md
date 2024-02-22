@@ -39,15 +39,15 @@ get(key) takes one argument as a key and returns the value that is assigned to t
 
 ✅6. length() returns the number of stored keys in the hash map.
 
-7. clear() removes all entries in the hash map.
+✅7. clear() removes all entries in the hash map.
 
-8. keys() returns an array containing all the keys inside the hash map.
+✅8. keys() returns an array containing all the keys inside the hash map.
 
-9. values() returns an array containing all the values.
+✅9. values() returns an array containing all the values.
 
-10. entries() returns an array that contains each key, value pair. Example: [[firstKey, firstValue], [secondKey, secondValue]]
+✅10. entries() returns an array that contains each key, value pair. Example: [[firstKey, firstValue], [secondKey, secondValue]]
 
 Remember that a hash map does not preserve insertion order when you are retrieving your hash map’s data. It is normal and expected for keys and values to appear out of the order you inserted them in.
 
-11. Extra Credit
-    Create a class HashSet that behaves the same as a HashMap but only contains keys with no values.
+✅11. Extra Credit
+Create a class HashSet that behaves the same as a HashMap but only contains keys with no values.
